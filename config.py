@@ -1,0 +1,5 @@
+user = "rishi"
+password = "P@ssw0rd"
+database = "rishi"
+host = "localhost"
+port = "5432"
