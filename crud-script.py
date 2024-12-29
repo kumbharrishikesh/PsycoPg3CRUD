@@ -1,5 +1,4 @@
 import psycopg
-from psycopg import sql
 import config
 import traceback
 
